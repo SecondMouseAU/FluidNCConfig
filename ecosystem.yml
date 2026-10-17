@@ -1,0 +1,10 @@
+okf_version: "0.2"
+repo: FluidNCConfig
+cluster: cam
+visibility: public
+status: active
+language: Swift
+summary: Dependency-free reader for FluidNC config.yaml files, returning axes, travel, homing, spindle and peripherals as a typed model with no defaults.
+products: []
+depends_on: []          # leaf; no dependencies
+maintainer: gsdali
